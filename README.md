@@ -10,20 +10,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. -->
 # About me
-Hi! My name is ~ I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations! 
+Hi! My name is Yiran Li. I am a Master's student in the MISM program at Carnegie Mellon University. I am passionate about everything data-related, spanning across both backend engineering and frontend development.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In this course, I hope to learn how to make complex data easier for everyone to understand. Specifically, here are a few things I want to achieve:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. **Get better at data storytelling:** Learn how to use charts and visuals to tell clear stories and support my conclusions.
+2. **Make complex data easier to understand:** Turn complicated technical data into simple, clear, and easy-to-follow visuals.
+3. **Improve how people understand data:** Learn design techniques that help people quickly understand the key insights from data.
+4. **Build a strong portfolio:** Create projects that show my skills in working with data, from analyzing it to presenting the results.
 
 # Portfolio
 
