@@ -70,6 +70,8 @@ The final visualization compares two measures for the ten largest military spend
 
 The redesign uses position and length for more accurate comparison. Direct labels show the values without a legend. Dark green highlights the United States in the expenditure chart, and orange highlights Saudi Arabia in the GDP chart. Lighter colors keep the remaining countries visible without competing with the main comparison. The title, larger type, and two measure layout reflect the critique and participant feedback.
 
+I created the final visualization in Tableau.
+
 ## References
 
 1. Visual Capitalist. ["Ranked: The Top 10 Countries by Military Spending."](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/) August 25, 2022.
@@ -79,4 +81,4 @@ The redesign uses position and length for more accurate comparison. Direct label
 
 ## AI acknowledgements
 
-I used an AI language assistant to organize the assignment requirements, revise the clarity of my writing, and consider design alternatives. I selected the visualization, assigned the evaluation scores, gathered participant feedback, and created the sketch and final visualization.
+I used Gemini and other generative AI tools to organize the assignment requirements, revise the clarity of my writing, and consider design alternatives. I selected the visualization, assigned the evaluation scores, gathered participant feedback, and created the sketch and final visualization.
