@@ -56,9 +56,11 @@ The sketch will test three decisions:
 
 1. Sort countries from highest to lowest.
 2. Highlight the United States while keeping the other countries visually consistent.
-3. Separate total spending from contextual measures such as share of GDP instead of placing every measure in one view.
+3. Use the bar chart for total spending and reserve a separate aligned scale for spending as a share of GDP.
 
-*[A photograph or exported image of the sketch will be added here before testing.]*
+![Initial sketch of a horizontal bar chart ranking the ten countries with the highest military spending in 2021](military-spending-sketch.png)
+
+*Initial sketch: a horizontal bar chart comparing total military spending in 2021. The United States is highlighted in blue while the remaining countries are shown in gray.*
 
 ## Step four: Test the solution
 
@@ -72,17 +74,17 @@ I will show the sketch to at least two participants without first explaining how
 
 To protect privacy, participants will be described only in broad terms and no personally identifiable information will be recorded.
 
-| Question | Participant 1 | Participant 2 |
+| Participant | Feedback | Planned design response |
 |---|---|---|
-| What does the visualization show? |  |  |
-| What is the main takeaway? |  |  |
-| What is surprising or confusing? |  |  |
-| Who is the intended audience? |  |  |
-| What would you change? |  |  |
+| Participant 1: classmate | The typeface is too small and narrow, which makes the labels difficult to read. The limited color palette also makes the visualization feel monotonous. | Replace the condensed typeface with a larger, more readable sans-serif font. Use color purposefully to distinguish total spending from spending as a share of GDP. |
 
 ### Feedback synthesis
 
-*[After testing, this section will summarize recurring points, disagreements, and the specific design changes made in response.]*
+The feedback confirmed that the first sketch needs stronger readability and visual hierarchy. I will increase the label size, replace the condensed typeface, and introduce a second accent color rather than relying almost entirely on gray.
+
+Reviewing the sketch also revealed a larger problem. The horizontal bars make the ranking easier to compare, but the redesign changed the original visualization into a general list of military budgets. By removing the percentage measures, I also removed an important contrast between absolute spending and the relative burden on each country's economy.
+
+In the next iteration, I will retain the horizontal bars for total expenditure and add an aligned dot plot showing military spending as a share of GDP. Blue will represent total expenditure, while orange will represent GDP share. The title will state the main contrast: the United States spent the most in absolute terms, while Saudi Arabia devoted the largest share of its economy to the military among the ten countries shown.
 
 ## Step five: Build the solution
 
