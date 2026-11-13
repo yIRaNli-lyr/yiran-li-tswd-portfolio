@@ -70,8 +70,6 @@ I increased the label size, replaced the condensed typeface, highlighted the mai
 
 ## Step five: Build the solution
 
-The final chart compares the world's ten largest military spenders in 2021. The headline's comparison of Saudi Arabia's military burden applies only to these ten countries.
-
 ![Final redesign comparing total military expenditure and military spending as a share of GDP](military-spending-final.png)
 
 *Final redesign using the 2021 SIPRI data. China and Saudi Arabia are SIPRI estimates.*
