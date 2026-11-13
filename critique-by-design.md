@@ -89,4 +89,4 @@ I created the final visualization in Tableau.
 
 ## AI acknowledgements
 
-I used Gemini and other generative AI tools to organize the assignment requirements, revise the clarity of my writing, and consider design alternatives. I selected the visualization, assigned the evaluation scores, gathered participant feedback, and created the sketch and final visualization.
+I used Gemini to organize the assignment requirements, revise the clarity of my writing, and consider design alternatives. I selected the visualization, assigned the evaluation scores, gathered participant feedback, and created the sketch and final visualization.
