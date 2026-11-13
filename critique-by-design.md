@@ -6,6 +6,8 @@
 
 I selected Visual Capitalist's [*Ranked: The Top 10 Countries by Military Spending*](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/). The visualization uses data from the Stockholm International Peace Research Institute (SIPRI) to compare the ten countries with the largest military expenditures in 2021.
 
+The dataset includes each country's total military expenditure in U.S. dollars, military spending as a share of GDP, and share of global military spending. SIPRI identifies the figures for China and Saudi Arabia as estimates.
+
 I chose it because the shell shaped forms and national flags make a public policy topic visually engaging. However, the irregular shapes make close comparisons difficult. The data also supports a useful contrast between total expenditure and military spending as a share of GDP.
 
 ## Step two: Critique the visualization
@@ -38,7 +40,7 @@ The primary audience is general news readers interested in global affairs, econo
 
 ### Reflection on the critique method
 
-Stephen Few's profile separated effectiveness into specific criteria and showed that a visualization can be attractive and intuitive while remaining difficult to compare accurately. Compared with the *Good Charts* method, Few's approach is more diagnostic, while *Good Charts* gives greater attention to context, audience, clarity, and engagement.
+Stephen Few's profile separated effectiveness into specific criteria and showed that a visualization can be attractive and intuitive while remaining difficult to compare accurately. Compared with the *Good Charts* method, Few's approach is more diagnostic, while *Good Charts* gives greater attention to context, audience, clarity, and engagement. The profile is useful for diagnosing clarity and accuracy, but it gives less attention to emotional impact, ethical framing, and whether the audience takes away the intended message.
 
 ## Step three: Sketch a solution
 
@@ -50,17 +52,25 @@ My initial sketch replaced the irregular shapes with a sorted horizontal bar cha
 
 ## Step four: Test the solution
 
-During the class critique, I showed the sketch to a classmate without explaining it first. I asked what the chart showed, what its main takeaway was, what was confusing, who the intended audience might be, and what should change.
+During the class critique, I showed the sketch to two people without explaining it first. I asked what the chart showed, what its main takeaway was, what was confusing, who the intended audience might be, and what should change.
 
-| Participant | Feedback | Design response |
+| Question | Participant 1 | Participant 2 |
 |---|---|---|
-| Participant 1: classmate | The typeface was too small and narrow. The limited color palette made the chart feel monotonous. | I replaced the condensed typeface with a larger sans serif font and used separate colors for total expenditure and GDP share. |
+| What does the chart show? | The top ten countries with the highest military spending in 2021. | Military spending across ten countries in billions of U.S. dollars. |
+| What is the main takeaway? | The United States spent much more on the military than any other country. | The United States spent $801 billion, while China ranked second with $293 billion. The gap is very large. |
+| What is confusing? | The font is too small and narrow, making the chart difficult to read. | Most bars are gray, so it is difficult to compare the countries quickly. There is also too much empty space on the right. |
+| Who is the audience? | The general public, students, and people interested in military spending. | Researchers, policymakers, students, and people interested in global affairs. |
+| What should change? | Increase the font size and use different colors to make the chart clearer. | Use color to highlight important countries, make the text larger, and improve the spacing between the bars and labels. |
 
 ### Feedback synthesis
 
-The feedback led me to increase the label size, replace the condensed typeface, and introduce a second color. I also found that the first sketch had reduced the original visualization to a general ranking. Removing the percentage measure eliminated the contrast between absolute expenditure and the relative burden on each country's economy. I retained the horizontal bars and added an aligned dot plot for military spending as a share of GDP.
+Both participants understood the ranking and identified the large gap between the United States and the other countries. Both also requested larger text and stronger use of color. Participant 2 additionally noted the empty space and spacing between the bars and labels. Their descriptions of the audience differed, but both included students and people interested in the topic.
+
+I increased the label size, replaced the condensed typeface, highlighted the main countries, and introduced a second color. I also found that the first sketch had reduced the original visualization to a general ranking. Removing the percentage measure eliminated the contrast between absolute expenditure and the relative burden on each country's economy. I retained the horizontal bars and used the empty space for an aligned dot plot showing military spending as a share of GDP.
 
 ## Step five: Build the solution
+
+The final chart compares the world's ten largest military spenders in 2021. The headline's comparison of Saudi Arabia's military burden applies only to these ten countries.
 
 ![Final redesign comparing total military expenditure and military spending as a share of GDP](military-spending-final.png)
 
