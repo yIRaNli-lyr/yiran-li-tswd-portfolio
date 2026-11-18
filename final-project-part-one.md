@@ -4,9 +4,11 @@
 
 ## Project summary
 
-My original topic asked why people read less or buy fewer physical books. It mixed reading behavior with purchasing decisions. I narrowed the project to a measurable question: How much of Americans' leisure time goes to reading, and how does that compare with television, games, and recreational computer use?
+My initial idea was to examine why people no longer read or buy physical books. That question was too broad and mixed reading behavior with purchasing decisions. I am interested in this subject because I often expect a short break to become quiet reading time, but it can quickly turn into fragments of online content. I narrowed the project to a more specific question: how much space does reading occupy in Americans’ leisure time, and how does it compare with screen media such as television, games, and recreational computer use?
 
-I often expect a short break to become quiet reading time. It frequently turns into fragments of online content. The project focuses on college students and young adults. It treats screen media as competitors for limited leisure time. The data supports comparison and does not establish causation.
+The project will focus on college students and young adults. A break that could provide time for sustained reading can easily become a series of notifications, short videos, and headlines. The available data cannot prove that digital media directly caused the decline in reading, so the story will present these activities as competitors for limited leisure time. The main idea is that reading has not disappeared, but it has less uninterrupted space in everyday life.
+
+**One sentence summary:** Reading remains part of American life, but it occupies a small share of leisure time and competes with more immediate forms of screen media.
 
 **User story:** As a college student who often checks a phone during short breaks, I want to see how Americans divide leisure time and how much remains for reading.
 
