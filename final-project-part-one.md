@@ -16,7 +16,7 @@ The project will focus on college students and young adults. A break that could 
 
 | Story section | Purpose | Planned evidence and presentation |
 |---|---|---|
-| Opening tension | Introduce the familiar experience of opening a book and being interrupted by fast moving digital content. | A quiet reading scene surrounded by notifications, videos, and headlines. |
+| Opening tension | Introduce the personal experience of losing patience while trying to read. | A digital book page marked at the point where sustained attention begins to break. |
 | The competition for leisure time | Establish that Americans still have leisure time, but reading occupies a small part of it. | Compare minutes spent reading with television, socializing, games, and recreational computer use. |
 | The younger audience | Connect the national data to college students and young adults. | Compare daily reading time across age groups and highlight ages 15 to 24. |
 | Change over time | Show that the issue involves both daily time and long term participation. | Show changes in the share of adults reading any book and reading novels or short stories from 2012 to 2022. |
@@ -26,11 +26,9 @@ The project will focus on college students and young adults. A break that could 
 
 The sketches show the proposed order of the data story. They include the opening image, the leisure time comparison, the age comparison, and the long term reading trend. The charts are preliminary and will be rebuilt as interactive Tableau visualizations.
 
-[Download the editable PowerPoint storyboard](final-project-assets/reading-attention-storyboard.pptx)
-
 ### 1. Opening question
 
-![Storyboard opening with the project question and an image placeholder showing a book surrounded by notifications](final-project-assets/reading-attention-sketch-1.png)
+![Storyboard opening with a digital book page marked at the point where the reader begins losing patience](final-project-assets/reading-attention-sketch-1.png)
 
 ### 2. Reading within daily leisure
 
