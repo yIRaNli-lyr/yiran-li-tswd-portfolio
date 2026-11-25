@@ -36,9 +36,9 @@ The notes below are concise paraphrases of the classroom feedback rather than ve
 |---|---|---|---|
 | Interview 1 | Master's student | The waffle chart made reading's small share of leisure time easy to see. | Retain the waffle structure and keep its explanation brief. |
 | Interview 2 | Master's student | Figure 3 needs a stronger visual indication that the comparison describes the United States. | Add U.S. to the title and emphasize the scope with the green accent color. |
-| Interview 3 | Master's student | The waffle format was the most visually effective part of the draft. | Use the waffle chart early in the story and preserve its current hierarchy. |
+| Interview 3 | Master's student | The logical progression from Figures 2 to 3 to 4 needs to be clearer. | Add short transitions that explain how each visual leads to the next. |
 
-The positive response to the waffle chart was consistent with the goal of minimizing explanation. The color feedback identifies a specific revision for Figure 3 rather than a need to replace the visualization.
+The feedback supports retaining the waffle chart. It also identifies two revisions: clarify the U.S. scope in Figure 3 and strengthen the transitions between Figures 2, 3, and 4.
 
 # Identified changes for Part III
 
@@ -46,7 +46,7 @@ The positive response to the waffle chart was consistent with the goal of minimi
 |---|---|
 | Figure 3 does not make its U.S. scope immediately clear. | Add U.S. to the chart title and emphasize the scope with the green accent color. |
 | The waffle chart is easy to understand. | Retain its structure and use it early in the story. |
-| Mobile readers need rapid orientation. | Add one short takeaway before each visual and remove unnecessary explanatory sentences. |
+| The progression from Figures 2 to 4 is not clear enough. | Add one short transition before Figures 3 and 4 to connect leisure time, age, and the long term reading trend. |
 | The story uses multiple chart types. | Apply the same type hierarchy, green accent, and source treatment throughout. |
 | The evidence comes from two surveys with different measures. | Keep the datasets in separate visuals and state the scope beside each chart. |
 
