@@ -8,33 +8,13 @@
 
 The draft follows the planned reading order: an electronic book opening, a waffle chart of daily leisure time, an age comparison, a 2012 to 2022 reading trend, and a short closing reflection. It establishes the full narrative path while leaving room to refine color, annotation, and transitions in Part III.
 
-## Wireframes and storyboards
-
-The four visuals below define the main stages of the story. The Shorthand draft places them in the same order so readers move from a personal experience to national evidence.
-
-### Opening
-
-![Electronic book opening marked at the point where the reader begins losing patience](final-project-assets/reading-attention-sketch-1.png)
-
-### Reading within daily leisure
-
-![Waffle chart showing reading as a small share of daily leisure time](final-project-assets/reading-attention-sketch-2.png)
-
-### Reading time by age
-
-![Vertical bar chart comparing average daily reading minutes across age groups](final-project-assets/reading-attention-sketch-3.png)
-
-### Reading participation over time
-
-![Line chart showing changes in book reading from 2012 to 2022](final-project-assets/reading-attention-sketch-4.png)
-
 # User research
 
 ## Target audience and recruitment
 
 The primary audience is college students and young adults who frequently use short breaks for phone based media. The story assumes interest in reading without requiring prior knowledge of time use research.
 
-I showed the storyboard and Shorthand sequence to people within or close to this audience. I looked for participants who could comment on the story as ordinary readers rather than data visualization specialists. No names or identifying details are included.
+I showed the Shorthand draft to three master's students. They are close to the target audience and could respond as ordinary readers rather than data visualization specialists. No names or identifying details are included.
 
 ## Research goals and interview script
 
@@ -44,13 +24,11 @@ The interviews tested whether the main idea was clear, whether each visual could
 |---|---|
 | Test the narrative | What do you think this story is about? What is the main point after viewing it once? |
 | Test visual clarity | Which visual is easiest to understand? Which one requires more effort? |
-| Test emphasis | What attracts your attention first? Does any color or label need stronger emphasis? |
-| Test engagement | Would you continue scrolling? Where does your attention begin to drop? |
-| Identify revisions | What is the first change you would make? |
+| Identify revisions | What color, label, or layout change would make the story clearer? |
 
 ## Interview findings
 
-The interviews produced two clear design findings.
+The three master's students produced two clear design findings.
 
 | Feedback | Interpretation |
 |---|---|
@@ -58,14 +36,6 @@ The interviews produced two clear design findings.
 | The waffle chart communicates the leisure time comparison well. | The part to whole structure is immediate and should remain in the final story. |
 
 The positive response to the waffle chart was consistent with the goal of minimizing explanation. The color feedback identifies a specific revision for Figure 3 rather than a need to replace the visualization.
-
-## Audience personas
-
-| Audience profile | Reading behavior | Design need |
-|---|---|---|
-| College student | Reads on a phone between classes and often scrolls quickly. | Lead with the takeaway and keep text blocks short. |
-| Casual reader | Is interested in books but rarely studies charts closely. | Use familiar chart forms, direct labels, and one focal color. |
-| Data focused reader | Wants to know how the measures were defined and sourced. | Keep units, dates, sources, and limitations close to each visual. |
 
 # Identified changes for Part III
 
@@ -85,4 +55,4 @@ National Endowment for the Arts. (2023, October). [Arts participation patterns i
 
 ## AI acknowledgements
 
-Generative AI was used to organize the interview protocol, develop the audience personas, and edit the wording. The reported interview feedback came from the interviews and the final interpretations and design choices are my own.
+Generative AI was used to organize the interview protocol and edit the wording. The reported interview feedback came from the interviews and the final interpretations and design choices are my own.
