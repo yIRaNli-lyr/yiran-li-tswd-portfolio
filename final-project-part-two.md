@@ -2,6 +2,8 @@
 
 # Final Project Part II: Story Draft and User Research
 
+# Wireframes and storyboards
+
 ## Shorthand story draft
 
 [View the complete Shorthand story draft](https://preview.shorthand.com/Y6KOWOaLpHBK2w55)
@@ -12,13 +14,13 @@ The draft follows the planned reading order: an electronic book opening, a waffl
 
 ## Target audience and recruitment
 
-The primary audience is college students and young adults who frequently use short breaks for phone based media. The story assumes interest in reading without requiring prior knowledge of time use research.
+The primary audience is young adults who rarely choose reading as a leisure activity and frequently use short breaks for phone based media. The story assumes interest in reading without requiring prior knowledge of time use research.
 
-I showed the Shorthand draft to three master's students. They are close to the target audience and could respond as ordinary readers rather than data visualization specialists. No names or identifying details are included.
+I recruited three master's students by asking for participants during class. They fit the young adult audience and could respond as ordinary readers rather than data visualization specialists. No names or identifying details are included.
 
 ## Research goals and interview script
 
-The interviews tested whether the main idea was clear, whether each visual could be read quickly, and which design choices should change before Part III.
+I displayed the Shorthand draft in class and walked through it from the opening to the conclusion. After the presentation, I asked each participant the same three questions. The interviews tested whether the main idea was clear, whether each visual could be read quickly, and which design choices should change before Part III.
 
 | Research goal | Questions |
 |---|---|
@@ -28,12 +30,13 @@ The interviews tested whether the main idea was clear, whether each visual could
 
 ## Interview findings
 
-The three master's students produced two clear design findings.
+The notes below are concise paraphrases of the classroom feedback rather than verbatim quotes.
 
-| Feedback | Interpretation |
-|---|---|
-| Figure 3 should make the United States context more visually prominent. | The chart needs a clearer indication that its age comparison describes U.S. readers. |
-| The waffle chart communicates the leisure time comparison well. | The part to whole structure is immediate and should remain in the final story. |
+| Participant | Description | Observation | Design response |
+|---|---|---|---|
+| Interview 1 | Master's student | The waffle chart made reading's small share of leisure time easy to see. | Retain the waffle structure and keep its explanation brief. |
+| Interview 2 | Master's student | Figure 3 needs a stronger visual indication that the comparison describes the United States. | Add U.S. to the title and emphasize the scope with the green accent color. |
+| Interview 3 | Master's student | The waffle format was the most visually effective part of the draft. | Use the waffle chart early in the story and preserve its current hierarchy. |
 
 The positive response to the waffle chart was consistent with the goal of minimizing explanation. The color feedback identifies a specific revision for Figure 3 rather than a need to replace the visualization.
 
