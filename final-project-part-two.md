@@ -4,6 +4,14 @@
 
 # Wireframes and storyboards
 
+## Tableau dashboard and charts
+
+![Leisure time dashboard](final-project-assets/reading-attention-dashboard.png)
+
+![Daily reading time by age group](final-project-assets/reading-time-by-age.png)
+
+![Book reading participation from 2012 to 2022](final-project-assets/book-reading-trend.png)
+
 ## Shorthand story draft
 
 [View the complete Shorthand story draft](https://preview.shorthand.com/Y6KOWOaLpHBK2w55)
