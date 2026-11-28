@@ -47,7 +47,7 @@ Bureau of Labor Statistics, U.S. Department of Labor. (2026, July 22). [American
 
 National Endowment for the Arts. (2023, October). [Arts participation patterns in 2022: Highlights from the Survey of Public Participation in the Arts](https://www.arts.gov/sites/default/files/2022-SPPA-final.pdf).
 
-Shelley, Mary. *Frankenstein; or, The Modern Prometheus*. 1818. The opening image was captured by the author from an electronic edition of this public-domain text.
+Shelley, Mary. *Frankenstein*. 1818. The opening image is from an electronic edition of the novel.
 
 ## AI acknowledgements
 
